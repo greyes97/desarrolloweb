@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "632cdee008cbbf425b1eaf63"
+  },
+  "Cod_Activo": "A001",
+  "Nombre": "Laptop HP",
+  "Serie Producto": "20304578",
+  "Fecha Ingreso": "15/09/2022",
+  "Costo": "7000",
+  "Usuario": "L001"
+}]
