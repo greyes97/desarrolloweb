@@ -1,1 +1,1 @@
-{'Cod_Activo': 'A012', 'Nombre': 'impresora HP', 'Tipo_activo': 'Computo', 'Serie_Producto': '10203045', 'Fecha_Ingreso': '15/09/2022', 'Costo_Inicial': '1200', 'Costo Actual': 1170.24, 'Depreciacion_Mensual': 29.76, 'Depreciacion_Anual': 357.11}
+{'Cod_Activo': 'A013', 'Nombre': 'Cable HDMI', 'Tipo_activo': 'Computo', 'Serie_Producto': '12000000', 'Fecha_Ingreso': '15/09/2022', 'Costo_Inicial': '150', 'Costo Actual': 146.28, 'Depreciacion_Mensual': 3.72, 'Depreciacion_Anual': 44.64}
