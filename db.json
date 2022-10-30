@@ -1,1 +1,1 @@
-{'Cod_Activo': 'A006', 'Nombre': 'Laptop HP', 'Tipo_activo': 'Computo', 'Serie_Producto': '20304578', 'Fecha_Ingreso': '15/09/2022', 'Costo_Inicial': '7000', 'Costo Actual': 6826.41, 'Depreciacion_Mensual': 173.59, 'Depreciacion_Anual': 2083.12}
+{'Cod_Activo': 'A007', 'Nombre': 'impresora HP', 'Tipo_activo': 'Computo', 'Serie_Producto': '10203045', 'Fecha_Ingreso': '15/09/2022', 'Costo_Inicial': '1200', 'Costo Actual': 1170.24, 'Depreciacion_Mensual': 29.76, 'Depreciacion_Anual': 357.11}
