@@ -1,1 +1,1 @@
-{'Cod_Activo': 'A003', 'Nombre': 'Cable HDMI', 'Tipo_activo': 'Maquinaria', 'Serie_Producto': '12000000', 'Fecha_Ingreso': '15/09/2022', 'Costo_Inicial': '150', 'Costo Actual': 147.92, 'Depreciacion_Mensual': 2.08, 'Depreciacion_Anual': 25.0}
+{'Cod_Activo': 'A004', 'Nombre': 'Proyecto Canon', 'Tipo_activo': 'Computo', 'Serie_Producto': '10002030', 'Fecha_Ingreso': '15/09/2022', 'Costo_Inicial': '1500', 'Costo Actual': 1462.8, 'Depreciacion_Mensual': 37.2, 'Depreciacion_Anual': 446.38}
