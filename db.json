@@ -1,1 +1,1 @@
-{'Cod_Activo': 'A015', 'Nombre': 'Laptop Dell', 'Tipo_activo': 'Computo', 'Serie_Producto': '20002305', 'Fecha_Ingreso': '15/09/2022', 'Costo_Inicial': '8500', 'Costo Actual': 8289.21, 'Depreciacion_Mensual': 210.79, 'Depreciacion_Anual': 2529.51}
+{'Cod_Activo': 'A016', 'Nombre': 'Laptop HP', 'Tipo_activo': 'Computo', 'Serie_Producto': '20304578', 'Fecha_Ingreso': '15/09/2022', 'Costo_Inicial': '7000', 'Costo Actual': 6826.41, 'Depreciacion_Mensual': 173.59, 'Depreciacion_Anual': 2083.12}
