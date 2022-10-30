@@ -1,1 +1,1 @@
-{'Cod_Activo': 'A009', 'Nombre': 'Proyecto Canon', 'Tipo_activo': 'Computo', 'Serie_Producto': '10002030', 'Fecha_Ingreso': '15/09/2022', 'Costo_Inicial': '1500', 'Costo Actual': 1462.8, 'Depreciacion_Mensual': 37.2, 'Depreciacion_Anual': 446.38}
+{'Cod_Activo': 'A010', 'Nombre': 'Laptop Dell', 'Tipo_activo': 'Computo', 'Serie_Producto': '20002305', 'Fecha_Ingreso': '15/09/2022', 'Costo_Inicial': '8500', 'Costo Actual': 8289.21, 'Depreciacion_Mensual': 210.79, 'Depreciacion_Anual': 2529.51}
