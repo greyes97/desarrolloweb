@@ -1,1 +1,1 @@
-{"Activos": [{"CodActivo": "A015", "Nombre": "Laptop Dell", "TipoActivo": "Computo", "SerieProducto": "20002305", "FechaIngreso": "15/09/2022", "CostoInicial": "8500", "CostoActual": 8289.21, "DepreciacionMensual": 210.79, "DepreciacionAnual": 2529.51}]}
+{"Activos": [{"CodActivo": "A016", "Nombre": "Laptop HP", "TipoActivo": "Computo", "SerieProducto": "20304578", "FechaIngreso": "15/09/2022", "CostoInicial": "7000", "CostoActual": 6826.41, "DepreciacionMensual": 173.59, "DepreciacionAnual": 2083.12}]}
