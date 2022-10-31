@@ -1,1 +1,1 @@
-{"Activos": [{"CodActivo": "A003", "Nombre": "Cable HDMI", "TipoActivo": "Maquinaria", "SerieProducto": "12000000", "FechaIngreso": "15/09/2022", "CostoInicial": "150", "CostoActual": 147.92, "DepreciacionMensual": 2.08, "DepreciacionAnual": 25.0}]}
+{"Activos": [{"CodActivo": "A004", "Nombre": "Proyecto Canon", "TipoActivo": "Computo", "SerieProducto": "10002030", "FechaIngreso": "15/09/2022", "CostoInicial": "1500", "CostoActual": 1462.8, "DepreciacionMensual": 37.2, "DepreciacionAnual": 446.38}]}
