@@ -1,1 +1,41 @@
-{"Activos": [{"CodActivo": "A020", "Nombre": "Laptop Dell", "TipoActivo": "Computo", "SerieProducto": "20002305", "FechaIngreso": "15/09/2022", "CostoInicial": "8500.95", "CostoActual": 8289.21, "DepreciacionMensual": 210.79, "DepreciacionAnual": 2529.51}]}
+[{
+  "Cod_Activo": "A001",
+  "Nombre": "Laptop HP",
+  "Tipo activo": "Inmueble",
+  "Serie Producto": "20304578",
+  "Fecha Ingreso": "15/09/2022",
+  "Costo": "7000",
+  "Usuario": "L001"
+},{
+  "Cod_Activo": "A002",
+  "Nombre": "impresora HP",
+  "Tipo activo": "Computo",
+  "Serie Producto": "10203045",
+  "Fecha Ingreso": "15/09/2022",
+  "Costo": "1200",
+  "Usuario": "L002"
+},{
+  "Cod_Activo": "A003",
+  "Nombre": "Cable HDMI",
+  "Tipo activo": "Computo",
+  "Serie Producto": "12000000",
+  "Fecha Ingreso": "15/09/2022",
+  "Costo": "150",
+  "Usuario": "L003"
+},{
+  "Cod_Activo": "A004",
+  "Nombre": "Proyecto Canon",
+  "Tipo activo": "Computo",
+  "Serie Producto": "10002030",
+  "Fecha Ingreso": "15/09/2022",
+  "Costo": "1500",
+  "Usuario": "L004"
+},{
+  "Cod_Activo": "A005",
+  "Nombre": "Laptop Dell",
+  "Tipo activo": "Computo",
+  "Serie Producto": "20002305",
+  "Fecha Ingreso": "15/09/2022",
+  "Costo": "8500",
+  "Usuario": "L005"
+}]
