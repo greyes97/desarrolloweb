@@ -1,1 +1,1 @@
-{"Activos": [{"CodActivo": "A002", "Nombre": "impresora HP", "TipoActivo": "Computo", "SerieProducto": "10203045", "FechaIngreso": "15/09/2022", "CostoInicial": "1200.75", "CostoActual": 1170.97, "DepreciacionMensual": 29.78, "DepreciacionAnual": 357.33}]}
+{"Activos": [{"CodActivo": "A003", "Nombre": "Cable HDMI", "TipoActivo": "Maquinaria", "SerieProducto": "12000000", "FechaIngreso": "15/09/2022", "CostoInicial": "150", "CostoActual": 147.92, "DepreciacionMensual": 2.08, "DepreciacionAnual": 25.0}]}
