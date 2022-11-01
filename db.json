@@ -4,7 +4,7 @@
       "Cod_Activo": "A001",
       "Nombre": "Edificio 2 niveles",
       "Tipo_de_Activo": "Inmueble",
-      "Fecha_ingreso": "31/06/2022",
+      "Fecha_ingreso": "25/06/2022",
       "Costo": "75600.75"
     },
     {
@@ -25,21 +25,21 @@
       "Cod_Activo": "A004",
       "Nombre": "Toyota Yaris",
       "Tipo_de_Activo": "Vehiculo",
-      "Fecha_ingreso": "31/07/2022",
+      "Fecha_ingreso": "16/09/2022",
       "Costo": "124500.75"
     },
     {
       "Cod_Activo": "A005",
       "Nombre": "Escritorio",
       "Tipo_de_Activo": "Mobiliario",
-      "Fecha_ingreso": "31/08/2022",
+      "Fecha_ingreso": "15/10/2022",
       "Costo": "600.25"
     },
     {
       "Cod_Activo": "A006",
       "Nombre": "Edificio 2 niveles",
       "Tipo_de_Activo": "Inmueble",
-      "Fecha_ingreso": "31/09/2022",
+      "Fecha_ingreso": "19/05/2022",
       "Costo": "75600.75"
     }
   ]
