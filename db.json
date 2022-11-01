@@ -1,1 +1,46 @@
-{"Activos": [{"Cod_Activo": "A001", "Nombre": "Edificio 2 niveles", "Tipo_de_Activo": "Inmueble", "Costo": "75600.75"},{"Cod_Activo": "A002", "Nombre": "Laptop Dell", "Tipo_de_Activo": "Computo", "Costo": "7600.75"},{"Cod_Activo": "A003", "Nombre": "Sierra Industrial", "Tipo_de_Activo": "Maquinaria", "Costo": "14500.55"},{"Cod_Activo": "A004", "Nombre": "Toyota Yaris", "Tipo_de_Activo": "Vehiculo", "Costo": "124500.75"},{"Cod_Activo": "A005", "Nombre": "Escritorio", "Tipo_de_Activo": "Mobiliario", "Costo": "600.25"},{"Cod_Activo": "A006", "Nombre": "Edificio 2 niveles", "Tipo_de_Activo": "Inmueble", "Costo": "75600.75"}]}
+{
+  "Activos": [
+    {
+      "Cod_Activo": "A001",
+      "Nombre": "Edificio 2 niveles",
+      "Tipo_de_Activo": "Inmueble",
+      "Fecha_ingreso": "31/06/22",
+      "Costo": "75600.75",
+    },
+    {
+      "Cod_Activo": "A002",
+      "Nombre": "Laptop Dell",
+      "Tipo_de_Activo": "Computo",
+      "Fecha_ingreso": "31/07/22",
+      "Costo": "7600.75",
+    },
+    {
+      "Cod_Activo": "A003",
+      "Nombre": "Sierra Industrial",
+      "Tipo_de_Activo": "Maquinaria",
+      "Fecha_ingreso": "31/08/22",
+      "Costo": "14500.55",
+    },
+    {
+      "Cod_Activo": "A004",
+      "Nombre": "Toyota Yaris",
+      "Tipo_de_Activo": "Vehiculo",
+      "Fecha_ingreso": "31/07/22",
+      "Costo": "124500.75",
+    },
+    {
+      "Cod_Activo": "A005",
+      "Nombre": "Escritorio",
+      "Tipo_de_Activo": "Mobiliario",
+      "Fecha_ingreso": "31/08/22",
+      "Costo": "600.25",
+    },
+    {
+      "Cod_Activo": "A006",
+      "Nombre": "Edificio 2 niveles",
+      "Tipo_de_Activo": "Inmueble",
+      "Fecha_ingreso": "31/09/22",
+      "Costo": "75600.75",
+    }
+  ]
+}
