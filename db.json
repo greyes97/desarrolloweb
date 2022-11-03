@@ -1,46 +1,108 @@
-{
-  "Activos": [
+[
+  [
     {
+      "_id": {
+        "$oid": "6361d4b8ac917aafd9b291dd"
+      },
       "Cod_Activo": "A001",
       "Nombre": "Edificio 2 niveles",
       "Tipo_de_Activo": "Inmueble",
-      "Fecha_ingreso": "25/06/2022",
+      "Fecha_Ingreso": "25/06/2022",
       "Costo": "75600.75"
     },
     {
+      "_id": {
+        "$oid": "6361d4b8ac917aafd9b291de"
+      },
       "Cod_Activo": "A002",
       "Nombre": "Laptop Dell",
       "Tipo_de_Activo": "Computo",
-      "Fecha_ingreso": "31/07/2022",
+      "Fecha_Ingreso": "31/07/2022",
       "Costo": "7600.75"
     },
     {
+      "_id": {
+        "$oid": "6361d4b8ac917aafd9b291df"
+      },
       "Cod_Activo": "A003",
       "Nombre": "Sierra Industrial",
       "Tipo_de_Activo": "Maquinaria",
-      "Fecha_ingreso": "31/08/2022",
+      "Fecha_Ingreso": "31/08/2022",
       "Costo": "14500.55"
     },
     {
+      "_id": {
+        "$oid": "6361d4b8ac917aafd9b291e0"
+      },
       "Cod_Activo": "A004",
       "Nombre": "Toyota Yaris",
       "Tipo_de_Activo": "Vehiculo",
-      "Fecha_ingreso": "16/09/2022",
+      "Fecha_Ingreso": "16/09/2022",
       "Costo": "124500.75"
     },
     {
+      "_id": {
+        "$oid": "6361d4b8ac917aafd9b291e1"
+      },
       "Cod_Activo": "A005",
       "Nombre": "Escritorio",
       "Tipo_de_Activo": "Mobiliario",
-      "Fecha_ingreso": "15/10/2022",
+      "Fecha_Ingreso": "15/10/2022",
       "Costo": "600.25"
     },
     {
+      "_id": {
+        "$oid": "6361d4b8ac917aafd9b291e2"
+      },
       "Cod_Activo": "A006",
       "Nombre": "Edificio 2 niveles",
       "Tipo_de_Activo": "Inmueble",
-      "Fecha_ingreso": "19/05/2022",
+      "Fecha_Ingreso": "19/05/2022",
       "Costo": "75600.75"
+    },
+    {
+      "_id": {
+        "$oid": "636310e222201dfdeb79aeaf"
+      },
+      "Cod_Activo": "A007",
+      "Nombre": "Aplanadora",
+      "Tipo_de_Activo": "Maquinaria",
+      "Fecha_Ingreso": "03/03/2022",
+      "Costo": "18500.00",
+      "Serie_Factura": "f46548fe"
+    },
+    {
+      "_id": {
+        "$oid": "636325bf2d8fda3e666c14aa"
+      },
+      "Cod_Activo": "A008",
+      "Nombre": "Laptop Asus",
+      "Tipo_de_Activo": "Computo",
+      "Fecha_Ingreso": "15/01/2021",
+      "Costo": "80000.00",
+      "Serie_Factura": "4g6df4654fgd"
+    },
+    {
+      "_id": {
+        "$oid": "63632702615e35cae996e27d"
+      },
+      "Cod_Activo": "A009",
+      "Nombre": "Escritorio",
+      "Tipo_de_Activo": "Mobiliario",
+      "Fecha_Ingreso": "15/02/2022",
+      "Costo": "6000.00",
+      "Serie_Factura": "GFDG465"
+    }
+    {
+      "_id": {
+        "$oid": "63632702615e35tae996e27d"
+      },
+      "Cod_Activo": "A010",
+      "Nombre": "SSSS",
+      "Tipo_de_Activo": "Maquinaria",
+      "Fecha_Ingreso": "31/10/2022",
+      "Costo": "6000.00",
+      "Serie_Factura": "GFDG465"
     }
   ]
-}
+]
